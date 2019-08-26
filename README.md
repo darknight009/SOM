@@ -1,4 +1,4 @@
 # SOM
 Self organizing Map for color data
 
-![Alt Text](https://gifs.com/gif/som-1WQzXZ)
+<iframe src='//gifs.com/embed/som-1WQzXZ' frameborder='0' scrolling='no' width='800px' height='800px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
