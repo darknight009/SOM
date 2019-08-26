@@ -1,4 +1,4 @@
 # SOM
 Self organizing Map for color data
 
-![Alt Text](https://gph.is/g/aRXVP0g)
+![Alt Text](https://gifs.com/gif/som-1WQzXZ)
